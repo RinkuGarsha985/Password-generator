@@ -8,5 +8,5 @@ A simple command-line password generator built using Python.
 - Option to include symbols
 
 ## ▶️ How to Run
-
 ```bash
+python main.py
