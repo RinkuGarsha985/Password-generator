@@ -1,2 +1,12 @@
-# Password-generator
-A simple Python-based password generator that creates secure and customizable passwords using letters, numbers, and symbols.
+# 🔐 Password Generator (Python)
+
+A simple command-line password generator built using Python.
+
+## 🚀 Features
+- Custom password length
+- Option to include digits
+- Option to include symbols
+
+## ▶️ How to Run
+
+```bash
